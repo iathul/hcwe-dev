@@ -1,0 +1,17 @@
+{
+    "calendly":"https://calendly.com/a-athuljoy/demo-health-clinic-with-esta",
+    "medium-userName":"healthclinicwithesta",
+    "signup-form":"https://docs.google.com/forms/d/e/1FAIpQLSc4SkEwwp1OCaagapsxU5Gl4D5VMSnGXqnS8gno-tsVyiSfEA/viewform?authuser=1",
+    "socials":[
+        {
+            "name": "facebook",
+            "link": "https://www.facebook.com/graciousesthero?mibextid=LQQJ4d",
+            "iconImg":"/assets/img/facebook.png"
+        },
+        {
+            "name": "instagram",
+            "link": "https://www.instagram.com/healthclinicwithesta?igsh=N3dndnRoN3BydHA3&utm_source=qr",
+            "iconImg":"/assets/img/Instagram.png"
+        }
+    ]
+}

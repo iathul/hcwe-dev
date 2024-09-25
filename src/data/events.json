@@ -1,0 +1,27 @@
+{
+    "title": "Upcoming Events",
+    "events":[{
+        "title":"Healthcare coaching class for children and old adults",
+        "description":"Embark on a transformative journey with our unique healthcare coaching class designed to bridge generations and promote wellness across age groups. This innovative program brings together children and older adults, fostering an environment of mutual learning, empathy, and health awareness.",
+        "platform":"zoom",
+        "date":"26-sep-2024",
+        "time":"6pm - 7pm",
+        "link":""
+    },
+    {
+        "title":"Healthcare coaching class for children and old adults",
+        "description":"Embark on a transformative journey with our unique healthcare coaching class designed to bridge generations and promote wellness across age groups. This innovative program brings together children and older adults, fostering an environment of mutual learning, empathy, and health awareness.",
+        "platform":"zoom",
+        "date":"26-sep-2024",
+        "time":"6pm - 7pm",
+        "link":""
+    },
+    {
+        "title":"Healthcare coaching class for children and old adults",
+        "description":"Embark on a transformative journey with our unique healthcare coaching class designed to bridge generations and promote wellness across age groups. This innovative program brings together children and older adults, fostering an environment of mutual learning, empathy, and health awareness.",
+        "platform":"zoom",
+        "date":"26-sep-2024",
+        "time":"6pm - 7pm",
+        "link":""
+    }]
+}
