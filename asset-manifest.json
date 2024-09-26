@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hcwe/static/css/main.ad41b4bc.css",
-    "main.js": "/hcwe/static/js/main.b3fbda48.js",
-    "static/js/453.4636af1f.chunk.js": "/hcwe/static/js/453.4636af1f.chunk.js",
-    "static/media/about-bg.png": "/hcwe/static/media/about-bg.4cff75edb4ad565fb54d.png",
-    "static/media/logo.png": "/hcwe/static/media/logo.19a58d1362539a87d942.png",
-    "static/media/Quote.svg": "/hcwe/static/media/Quote.a67a21a08767ef9f3419933a2afa9ae7.svg",
-    "index.html": "/hcwe/index.html",
-    "static/media/menu.svg": "/hcwe/static/media/menu.79ce11fb3ba2a4b025dc933a74b4713e.svg",
-    "static/media/effect.svg": "/hcwe/static/media/effect.17ad0c67160a1b339704ba3a25f98f3e.svg",
-    "main.ad41b4bc.css.map": "/hcwe/static/css/main.ad41b4bc.css.map",
-    "main.b3fbda48.js.map": "/hcwe/static/js/main.b3fbda48.js.map",
-    "453.4636af1f.chunk.js.map": "/hcwe/static/js/453.4636af1f.chunk.js.map"
+    "main.css": "/hcwe-dev/static/css/main.ad41b4bc.css",
+    "main.js": "/hcwe-dev/static/js/main.6d025187.js",
+    "static/js/453.4636af1f.chunk.js": "/hcwe-dev/static/js/453.4636af1f.chunk.js",
+    "static/media/about-bg.png": "/hcwe-dev/static/media/about-bg.4cff75edb4ad565fb54d.png",
+    "static/media/logo.png": "/hcwe-dev/static/media/logo.19a58d1362539a87d942.png",
+    "static/media/Quote.svg": "/hcwe-dev/static/media/Quote.a67a21a08767ef9f3419933a2afa9ae7.svg",
+    "index.html": "/hcwe-dev/index.html",
+    "static/media/menu.svg": "/hcwe-dev/static/media/menu.79ce11fb3ba2a4b025dc933a74b4713e.svg",
+    "static/media/effect.svg": "/hcwe-dev/static/media/effect.17ad0c67160a1b339704ba3a25f98f3e.svg",
+    "main.ad41b4bc.css.map": "/hcwe-dev/static/css/main.ad41b4bc.css.map",
+    "main.6d025187.js.map": "/hcwe-dev/static/js/main.6d025187.js.map",
+    "453.4636af1f.chunk.js.map": "/hcwe-dev/static/js/453.4636af1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad41b4bc.css",
-    "static/js/main.b3fbda48.js"
+    "static/js/main.6d025187.js"
   ]
 }
