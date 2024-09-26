@@ -1,7 +1,7 @@
 {
   "name": "hcwe",
   "version": "0.1.0",
-  "homepage": "https://iathul.github.io/hcwe-dev",
+  "homepage": "http://www.athuljoy.in/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
