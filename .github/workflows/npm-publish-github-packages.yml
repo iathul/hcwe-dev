@@ -27,7 +27,7 @@ jobs:
         run: |
           npm run build
           # Add CNAME file to the build directory with your custom domain
-          echo 'www.athuljoy.in' > ./build/CNAME
+          echo '' > ./build/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
